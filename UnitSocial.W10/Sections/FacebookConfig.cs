@@ -79,7 +79,7 @@ namespace UnitSocial.Sections
 
                 var actions = new List<ActionConfig<FacebookSchema>>
                 {
-                    ActionConfig<FacebookSchema>.Link("Go To Source", (item) => item.FeedUrl.ToSafeString()),
+                    ActionConfig<FacebookSchema>.Link("Ver post original", (item) => item.FeedUrl.ToSafeString()),
                 };
 
                 return new DetailPageConfig<FacebookSchema>

@@ -81,7 +81,7 @@ namespace UnitSocial.Sections
 
                 var actions = new List<ActionConfig<InstagramSchema>>
                 {
-                    ActionConfig<InstagramSchema>.Link("Go To Source", (item) => item.SourceUrl.ToSafeString()),
+                    ActionConfig<InstagramSchema>.Link("Ver post original", (item) => item.SourceUrl.ToSafeString()),
                 };
 
                 return new DetailPageConfig<InstagramSchema>

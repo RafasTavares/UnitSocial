@@ -14,9 +14,10 @@ namespace UnitSocial.ViewModels
         }
         public string UrlText
         {
+            //http://appstudio.windows.com/home/appprivacyterms
             get
             {
-                return "http://appstudio.windows.com/home/appprivacyterms";
+                return "#";
             }
         }
     }

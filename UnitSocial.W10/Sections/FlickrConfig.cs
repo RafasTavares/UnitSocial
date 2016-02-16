@@ -76,7 +76,7 @@ namespace UnitSocial.Sections
 
                 var actions = new List<ActionConfig<FlickrSchema>>
                 {
-                    ActionConfig<FlickrSchema>.Link("Go To Source", (item) => item.FeedUrl.ToSafeString()),
+                    ActionConfig<FlickrSchema>.Link("Ver post original", (item) => item.FeedUrl.ToSafeString()),
                 };
 
                 return new DetailPageConfig<FlickrSchema>

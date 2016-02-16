@@ -8,7 +8,9 @@ namespace UnitSocial.ViewModels
 {
     public class AboutThisAppViewModel : ObservableBase
     {
-		private ResourceLoader _resourceLoader;
+        private ResourceLoader _resourceLoader;
+
+        #region ResourceLoader
         private ResourceLoader ResourceLoader
         {
             get
@@ -20,7 +22,9 @@ namespace UnitSocial.ViewModels
                 return _resourceLoader;
             }
         }
+        #endregion
 
+        #region PageTitle
         public string PageTitle
         {
             get
@@ -28,7 +32,9 @@ namespace UnitSocial.ViewModels
                 return ResourceLoader.GetString("NavigationPaneAbout");
             }
         }
+        #endregion
 
+        #region Publisher 
         public string Publisher
         {
             get
@@ -36,7 +42,9 @@ namespace UnitSocial.ViewModels
                 return "Rafael Tavares";
             }
         }
+        #endregion
 
+        #region AppVersion
         public string AppVersion
         {
             get
@@ -44,7 +52,9 @@ namespace UnitSocial.ViewModels
                 return string.Format("{0}.{1}.{2}.{3}", Package.Current.Id.Version.Major, Package.Current.Id.Version.Minor, Package.Current.Id.Version.Build, Package.Current.Id.Version.Revision);
             }
         }
+        #endregion
 
+        #region AboutText
         public string AboutText
         {
             get
@@ -54,7 +64,9 @@ namespace UnitSocial.ViewModels
     "ralizando em um só aplicativo. Nunca mais fico por fora de alguma notícia.";
             }
         }
-		
+        #endregion
+
+        #region AppName
         public string AppName
         {
             get
@@ -62,22 +74,28 @@ namespace UnitSocial.ViewModels
                 return "Unit Social";
             }
         }
+        #endregion
 
-		public string PrivacyUrl
+        #region PrivacyUrl
+        public string PrivacyUrl
         {
+            //http://appstudio.windows.com/home/appprivacyterms
             get
             {
-                return "http://appstudio.windows.com/home/appprivacyterms";
+                return "#"; 
             }
         }
+        #endregion
 
-		public BitmapImage AppLogo
+        #region AppLogo
+        public BitmapImage AppLogo
         {
             get
             {
                 return new BitmapImage(new Uri("ms-appx:///Assets/ApplicationLogo.png"));
             }
         }
+        #endregion
     }
 }
 

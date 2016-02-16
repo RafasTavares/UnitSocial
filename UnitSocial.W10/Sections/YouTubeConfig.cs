@@ -81,7 +81,7 @@ namespace UnitSocial.Sections
 
                 var actions = new List<ActionConfig<YouTubeSchema>>
                 {
-                    ActionConfig<YouTubeSchema>.Link("Go To Source", (item) => item.ExternalUrl.ToSafeString()),
+                    ActionConfig<YouTubeSchema>.Link("Ver post original", (item) => item.ExternalUrl.ToSafeString()),
                 };
 
                 return new DetailPageConfig<YouTubeSchema>
