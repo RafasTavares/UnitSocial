@@ -6,7 +6,7 @@ namespace UnitSocial.ViewModels
 
         public AdvertisingViewModel()
         {
-            Title = "Advertising";            
+            Title = "Publicidade";            
         }        
     }
 }
