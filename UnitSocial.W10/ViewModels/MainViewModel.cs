@@ -22,6 +22,7 @@ namespace UnitSocial.ViewModels
 {
     public class MainViewModel : ObservableBase
     {
+        #region MainViewModel
         public MainViewModel(int visibleItems) : base()
         {
             PageTitle = "Unit Social";
@@ -45,7 +46,9 @@ namespace UnitSocial.ViewModels
                 });
             }
         }
+        #endregion
 
+        #region Variaveis
         public string PageTitle { get; set; }
         public ListViewModel Facebook { get; private set; }
         public ListViewModel Twitter { get; private set; }
@@ -53,7 +56,9 @@ namespace UnitSocial.ViewModels
         public ListViewModel Instagram { get; private set; }
         public ListViewModel Flickr { get; private set; }
 		public AdvertisingViewModel SectionAd { get; set; }
+        #endregion
 
+        #region SectionHeaderClickCommand
         public RelayCommand<INavigable> SectionHeaderClickCommand
         {
             get
@@ -64,7 +69,9 @@ namespace UnitSocial.ViewModels
                     });
             }
         }
+        #endregion
 
+        #region LastUpdated
         public DateTime? LastUpdated
         {
             get
@@ -73,7 +80,9 @@ namespace UnitSocial.ViewModels
                             .OrderByDescending(d => d).FirstOrDefault();
             }
         }
-
+        #endregion
+        
+        #region Actions
         public List<ActionInfo> Actions { get; private set; }
 
         public bool HasActions
@@ -83,7 +92,9 @@ namespace UnitSocial.ViewModels
                 return Actions != null && Actions.Count > 0;
             }
         }
+        #endregion
 
+        #region LoadDataAsync
         public async Task LoadDataAsync()
         {
             var loadDataTasks = GetViewModels().Select(vm => vm.LoadDataAsync());
@@ -92,7 +103,9 @@ namespace UnitSocial.ViewModels
 
             OnPropertyChanged("LastUpdated");
         }
+        #endregion
 
+        #region Refresh
         private async void Refresh()
         {
             var refreshDataTasks = GetViewModels()
@@ -102,7 +115,9 @@ namespace UnitSocial.ViewModels
 
             OnPropertyChanged("LastUpdated");
         }
+        #endregion
 
+        #region GetViewModels
         private IEnumerable<ListViewModel> GetViewModels()
         {
             yield return Facebook;
@@ -111,5 +126,6 @@ namespace UnitSocial.ViewModels
             yield return Instagram;
             yield return Flickr;
         }
+        #endregion
     }
 }
