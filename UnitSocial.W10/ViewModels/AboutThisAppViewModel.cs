@@ -33,7 +33,7 @@ namespace UnitSocial.ViewModels
         {
             get
             {
-                return "Unit Social";
+                return "Rafael Tavares";
             }
         }
 

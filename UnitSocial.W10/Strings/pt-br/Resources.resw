@@ -187,7 +187,7 @@
     <value>Ocorreu um erro inesperado ao carregar os dados da seção. Tente atualizar mais tarde.</value>
   </data>
   <data name="SectionListItem.HeaderLinkText" xml:space="preserve">
-    <value>Exibir tudo</value>
+    <value>Ver mais</value>
   </data>
   <data name="ShowPresentationButton.Label" xml:space="preserve">
     <value>Apresentação de slides</value>
@@ -223,16 +223,16 @@
     <value>Application navigation panel</value>
   </data>
   <data name="NarrationSubTitle" xml:space="preserve">
-    <value>subtitle</value>
+    <value>subtítulo</value>
   </data>
   <data name="NarrationTitle" xml:space="preserve">
-    <value>title</value>
+    <value>título</value>
   </data>
   <data name="NavigationPaneAbout" xml:space="preserve">
-    <value>About</value>
+    <value>Sobre</value>
   </data>
   <data name="NavigationPanePrivacy" xml:space="preserve">
-    <value>Privacy terms</value>
+    <value>Termos de privacidade</value>
   </data>
   <data name="AboutAppStudioOpenSourceLibraries.Text" xml:space="preserve">
     <value>App Studio Open Source Libraries</value>
@@ -241,10 +241,10 @@
     <value>·   Application Insights</value>
   </data>
   <data name="AboutCapabilityInternet.Text" xml:space="preserve">
-    <value>·   Internet connection</value>
+    <value>·   Conexão com a internet</value>
   </data>
   <data name="AboutCapabilityTileUpdater.Text" xml:space="preserve">
-    <value>·   Tile Updater</value>
+    <value>·  Atualizar Tile</value>
   </data>
   <data name="AboutOpenProjectURL.Content" xml:space="preserve">
     <value>Open project URL</value>

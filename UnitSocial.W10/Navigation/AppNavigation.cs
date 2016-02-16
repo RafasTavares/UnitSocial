@@ -51,7 +51,8 @@ namespace UnitSocial.Navigation
 			AddNode(Nodes, "Instagram", "\ue12d", string.Empty, "InstagramListPage", true);			
 			AddNode(Nodes, "Flickr", "\ue114", string.Empty, "FlickrListPage", true);			
 			AddNode(Nodes, resourceLoader.GetString("NavigationPaneAbout"), "\ue11b", string.Empty, "AboutPage");
-			AddNode(Nodes, resourceLoader.GetString("NavigationPanePrivacy"), "\ue1f7", string.Empty, string.Empty, true, string.Empty, "http://appstudio.windows.com/home/appprivacyterms");            
+            // Termos de privacidade do App Studio
+			//AddNode(Nodes, resourceLoader.GetString("NavigationPanePrivacy"), "\ue1f7", string.Empty, string.Empty, true, string.Empty, "http://appstudio.windows.com/home/appprivacyterms");            
         }
 
 		private void AddNode(ObservableCollection<NavigationNode> nodes, string label, string fontIcon, string image, string pageName, bool isVisible = true, string title = null, string deepLinkUrl = null, bool isSelected = false)
