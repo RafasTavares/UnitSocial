@@ -196,31 +196,31 @@
     <value>Mostrar informações</value>
   </data>
   <data name="RefreshButton.AutomationPropertiesName" xml:space="preserve">
-    <value>Press to refresh the data</value>
+    <value>Clique para atualizar</value>
   </data>
   <data name="BigTextButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Press to set big size on text</value>
+    <value>Clique para definir o tamanho grande do texto</value>
   </data>
   <data name="FullScreenButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Press to start full screen mode</value>
+    <value>Clique para ativar o modo full screen</value>
   </data>
   <data name="NormalTextButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Press to set normal size on text</value>
+    <value>Clique para definir o tamanho normal do texto</value>
   </data>
   <data name="ShareItemButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Press to share</value>
+    <value>Clique para compartilhar</value>
   </data>
   <data name="ShowInfoButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Press to show or hide information</value>
+    <value>Clique para Exibir/ocultar informações</value>
   </data>
   <data name="ShowPresentationButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Press to start media presentation</value>
+    <value>Clique para iniciar</value>
   </data>
   <data name="SmallTextButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Press to set small size on text</value>
+    <value>Clique para definir o tamanho pequeno do texto</value>
   </data>
   <data name="NavigationPageButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Application navigation panel</value>
+    <value>Painel de navegação da aplicação</value>
   </data>
   <data name="NarrationSubTitle" xml:space="preserve">
     <value>subtítulo</value>
@@ -253,6 +253,6 @@
     <value>Loading...</value>
   </data>
   <data name="ThereIsNotRelatedContent" xml:space="preserve">
-    <value>There is no related content.</value>
+    <value>Não há conteúdo relacionado.</value>
   </data>
 </root>
