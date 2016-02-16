@@ -12,17 +12,16 @@ namespace UnitSocial.Navigation
     {
         private NavigationNode _active;
 
+        #region AppNavigation
         static AppNavigation()
         {
-
         }
-
+        #endregion
+        
+        #region NavigationNode Active
         public NavigationNode Active
         {
-            get
-            {
-                return _active;
-            }
+            get { return _active; }
             set
             {
                 if (_active != null)
@@ -36,15 +35,19 @@ namespace UnitSocial.Navigation
                 }
             }
         }
-
+        #endregion
 
         public ObservableCollection<NavigationNode> Nodes { get; private set; }
 
+        #region LoadNavigation
+        /// <summary>
+        /// Carregando Menu Navigation
+        /// </summary>
         public void LoadNavigation()
         {
             Nodes = new ObservableCollection<NavigationNode>();
 		    var resourceLoader = new ResourceLoader();
-			AddNode(Nodes, "Home", "\ue10f", string.Empty, "HomePage", true, @"Unit Social");
+			AddNode(Nodes, "Início", "\ue10f", string.Empty, "HomePage", true, @"Unit Social");
 			AddNode(Nodes, "Facebook", "\ue19f", string.Empty, "FacebookListPage", true);			
 			AddNode(Nodes, "Twitter", "\ue134", string.Empty, "TwitterListPage", true);			
 			AddNode(Nodes, "YouTube", "\ue173", string.Empty, "YouTubeListPage", true);			
@@ -54,8 +57,10 @@ namespace UnitSocial.Navigation
             // Termos de privacidade do App Studio
 			//AddNode(Nodes, resourceLoader.GetString("NavigationPanePrivacy"), "\ue1f7", string.Empty, string.Empty, true, string.Empty, "http://appstudio.windows.com/home/appprivacyterms");            
         }
+        #endregion
 
-		private void AddNode(ObservableCollection<NavigationNode> nodes, string label, string fontIcon, string image, string pageName, bool isVisible = true, string title = null, string deepLinkUrl = null, bool isSelected = false)
+        #region AddNode
+        private void AddNode(ObservableCollection<NavigationNode> nodes, string label, string fontIcon, string image, string pageName, bool isVisible = true, string title = null, string deepLinkUrl = null, bool isSelected = false)
         {
             if (nodes != null && isVisible)
             {
@@ -80,12 +85,16 @@ namespace UnitSocial.Navigation
                 nodes.Add(node);
             }            
         }
+        #endregion
 
+        #region FindPage
         public NavigationNode FindPage(Type pageType)
         {
             return GetAllItemNodes(Nodes).FirstOrDefault(n => n.NavigationInfo.NavigationType == NavigationType.Page && n.NavigationInfo.TargetPage == pageType.Name);
         }
+        #endregion
 
+        #region GetAllItemNodes
         private IEnumerable<ItemNavigationNode> GetAllItemNodes(IEnumerable<NavigationNode> nodes)
         {
             foreach (var node in nodes)
@@ -105,5 +114,6 @@ namespace UnitSocial.Navigation
                 }
             }
         }
+        #endregion
     }
 }
