@@ -391,3 +391,4 @@ C:\Users\rafae\Downloads\UnitSocial\UnitSocial.W10\obj\ARM\Debug\MultipleQualifi
 C:\Users\rafae\Downloads\UnitSocial\UnitSocial.W10\obj\ARM\Debug\AppStudio.DataProviders.pri.xml
 C:\Users\rafae\Downloads\UnitSocial\UnitSocial.W10\obj\ARM\Debug\AppStudio.Uwp.pri.xml
 C:\Users\rafae\Downloads\UnitSocial\UnitSocial.W10\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\rafae\Downloads\UnitSocial\UnitSocial.W10\obj\ARM\Debug\UnitSocial.W10.csprojResolveAssemblyReference.cache

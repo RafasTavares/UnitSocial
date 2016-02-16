@@ -1,0 +1,3 @@
+AppStudio.Uwp, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
+  AppStudio.Uwp.Controls.HtmlViewer.HtmlViewerScript.js
+  AppStudio.Uwp.Controls.ReadingWebView.ReadingWebViewContent.htm

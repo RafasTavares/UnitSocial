@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="59371RafasTavares.UnitSocial" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>PT-BR</Language>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ApplicationInsights.config" uri="ms-resource://59371RafasTavares.UnitSocial/Files/ApplicationInsights.config">
+				<Candidate type="Path">
+					<Value>ApplicationInsights.config</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Shell.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Shell.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnitSocial.W10.xr.xml" uri="ms-resource://59371RafasTavares.UnitSocial/Files/UnitSocial.W10.xr.xml">
+				<Candidate type="Path">
+					<Value>UnitSocial.W10.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AppStudio.Uwp">
+				<NamedResource name="AppStudio.Uwp.xr.xml" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/AppStudio.Uwp.xr.xml">
+					<Candidate type="Path">
+						<Value>AppStudio.Uwp\AppStudio.Uwp.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="Carousel">
+						<NamedResource name="Carousel.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Controls/Carousel/Carousel.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CarouselIndicator">
+						<NamedResource name="CarouselIndicator.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Controls/CarouselIndicator/CarouselIndicator.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ErrorNotificationControl">
+						<NamedResource name="ErrorNotificationControl.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Controls/ErrorNotificationControl/ErrorNotificationControl.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="HtmlViewer">
+						<NamedResource name="HtmlViewer.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Controls/HtmlViewer/HtmlViewer.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Indicator">
+						<NamedResource name="Indicator.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Controls/Indicator/Indicator.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Relativebox">
+						<NamedResource name="Relativebox.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Controls/Relativebox/Relativebox.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ResponsiveGridView">
+						<NamedResource name="ResponsiveGridView.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Controls/ResponsiveGridView/ResponsiveGridView.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="SectionList">
+						<NamedResource name="SectionList.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Controls/SectionList/SectionList.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Virtualbox">
+						<NamedResource name="Virtualbox.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Controls/Virtualbox/Virtualbox.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="AppStudio.Uwp.rd.xml" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Properties/AppStudio.Uwp.rd.xml">
+						<Candidate type="Path">
+							<Value>AppStudio.Uwp\Properties\AppStudio.Uwp.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/AppStudio.Uwp/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="ApplicationLogo.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/ApplicationLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\ApplicationLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RelatedContentVBP.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/RelatedContentVBP.json">
+					<Candidate type="Path">
+						<Value>Assets\RelatedContentVBP.json</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ResponsiveBehaviorsVBP.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/ResponsiveBehaviorsVBP.json">
+					<Candidate type="Path">
+						<Value>Assets\ResponsiveBehaviorsVBP.json</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="DataImages">
+					<NamedResource name="Background-8615d90b-f104-4ca9-970d-d73d2bf311d6.jpg" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/DataImages/Background-8615d90b-f104-4ca9-970d-d73d2bf311d6.jpg">
+						<Candidate type="Path">
+							<Value>Assets\DataImages\Background-8615d90b-f104-4ca9-970d-d73d2bf311d6.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Design">
+					<NamedResource name="DarkGray.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Design/DarkGray.png">
+						<Candidate type="Path">
+							<Value>Assets\Design\DarkGray.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DesignData.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Design/DesignData.json">
+						<Candidate type="Path">
+							<Value>Assets\Design\DesignData.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DesignDataHtml.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Design/DesignDataHtml.json">
+						<Candidate type="Path">
+							<Value>Assets\Design\DesignDataHtml.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DesignDataMenu.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Design/DesignDataMenu.json">
+						<Candidate type="Path">
+							<Value>Assets\Design\DesignDataMenu.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DesignDataTD.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Design/DesignDataTD.json">
+						<Candidate type="Path">
+							<Value>Assets\Design\DesignDataTD.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DetailDesignData.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Design/DetailDesignData.json">
+						<Candidate type="Path">
+							<Value>Assets\Design\DetailDesignData.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LightGray.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Design/LightGray.png">
+						<Candidate type="Path">
+							<Value>Assets\Design\LightGray.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MediumGray.png" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Assets/Design/MediumGray.png">
+						<Candidate type="Path">
+							<Value>Assets\Design\MediumGray.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Layouts">
+				<ResourceMapSubtree name="Controls">
+					<NamedResource name="AdvertisingControl.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/Controls/AdvertisingControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DataUpdateInformationControl.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/Controls/DataUpdateInformationControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="HeroImage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/Controls/HeroImage.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SectionListItemHeader.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/Controls/SectionListItemHeader.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Detail">
+					<NamedResource name="MultiColumnDetailLayout.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/Detail/MultiColumnDetailLayout.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PhotoDetailLayout.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/Detail/PhotoDetailLayout.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="RelatedContentDetailLayout.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/Detail/RelatedContentDetailLayout.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextDetailLayout.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/Detail/TextDetailLayout.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="YouTubeDetailLayout.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/Detail/YouTubeDetailLayout.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="List">
+					<NamedResource name="Breakpoints.Large.ContactCard.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Large.ContactCard.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Large.ContactCard.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Large.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Large.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Large.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Large.ListBigHorizontalCard.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Large.ListBigHorizontalCard.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Large.ListBigHorizontalCard.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Large.ListBigHorizontalCardBox.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Large.ListBigHorizontalCardBox.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Large.ListBigHorizontalCardBox.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Medium.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Medium.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Medium.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Medium.ListBigVerticalCard.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Medium.ListBigVerticalCard.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Medium.ListBigVerticalCard.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Medium.ListBigVerticalCardBox.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Medium.ListBigVerticalCardBox.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Medium.ListBigVerticalCardBox.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Medium.ListTextCard.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Medium.ListTextCard.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Medium.ListTextCard.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Medium.MenuBig.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Medium.MenuBig.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Medium.MenuBig.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Medium.MenuMedium.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Medium.MenuMedium.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Medium.MenuMedium.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Medium.MenuSmall.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Medium.MenuSmall.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Medium.MenuSmall.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Medium.MenuText.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Medium.MenuText.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Medium.MenuText.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Breakpoints.Medium.Photo.json" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/Breakpoints.Medium.Photo.json">
+						<Candidate type="Path">
+							<Value>Layouts\List\Breakpoints.Medium.Photo.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CarouselBig.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/CarouselBig.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CarouselMedium.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/CarouselMedium.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListBigHorizontalCard.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/ListBigHorizontalCard.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListBigHorizontalCardBox.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/ListBigHorizontalCardBox.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListBigVerticalCard.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/ListBigVerticalCard.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListBigVerticalCardBox.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/ListBigVerticalCardBox.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListContactCard.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/ListContactCard.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListPhoto.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/ListPhoto.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ListTextCard.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/ListTextCard.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuBig.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/MenuBig.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuMedium.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/MenuMedium.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuSmall.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/MenuSmall.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MenuText.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Layouts/List/MenuText.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.AdMediator.Universal">
+				<NamedResource name="Microsoft.AdMediator.Universal.xr.xml" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Microsoft.AdMediator.Universal/Microsoft.AdMediator.Universal.xr.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.AdMediator.Universal\Microsoft.AdMediator.Universal.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Microsoft.AdMediator.Universal/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Pages">
+				<NamedResource name="AboutPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/AboutPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FacebookDetailPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/FacebookDetailPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FacebookListPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/FacebookListPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FlickrDetailPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/FlickrDetailPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FlickrListPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/FlickrListPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HomePage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/HomePage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InstagramDetailPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/InstagramDetailPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InstagramListPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/InstagramListPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TwitterListPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/TwitterListPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="YouTubeDetailPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/YouTubeDetailPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="YouTubeListPage.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Pages/YouTubeListPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Styles">
+				<NamedResource name="AppBarButtons.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Styles/AppBarButtons.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AppColors.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Styles/AppColors.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AppTheme.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Styles/AppTheme.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ButtonStyles.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Styles/ButtonStyles.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DefaultTheme.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Styles/DefaultTheme.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DetailStyles.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Styles/DetailStyles.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontSizes.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Styles/FontSizes.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SectionListStyles.xbf" uri="ms-resource://59371RafasTavares.UnitSocial/Files/Styles/SectionListStyles.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Microsoft.Advertising.winmd" uri="ms-resource://59371RafasTavares.UnitSocial/Files/WinMetadata/Microsoft.Advertising.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Microsoft.Advertising.winmd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Windows.winmd" uri="ms-resource://59371RafasTavares.UnitSocial/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="LoadingRelatedContent" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/LoadingRelatedContent">
+				<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+					<Value>Loading...</Value>
+				</Candidate>
+				<Candidate type="String">
+					<Value>Obtendo atualizações...</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NarrationSubTitle" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/NarrationSubTitle">
+				<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+					<Value>subtítulo</Value>
+				</Candidate>
+				<Candidate type="String">
+					<Value>Subtítulo</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NarrationTitle" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/NarrationTitle">
+				<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+					<Value>título</Value>
+				</Candidate>
+				<Candidate type="String">
+					<Value>Título</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationPaneAbout" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/NavigationPaneAbout">
+				<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+					<Value>Sobre</Value>
+				</Candidate>
+				<Candidate type="String">
+					<Value>Sobre</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationPanePrivacy" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/NavigationPanePrivacy">
+				<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+					<Value>Termos de privacidade</Value>
+				</Candidate>
+				<Candidate type="String">
+					<Value>Termos de Privacidade</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ThereIsNotRelatedContent" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/ThereIsNotRelatedContent">
+				<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+					<Value>Não há conteúdo relacionado.</Value>
+				</Candidate>
+				<Candidate type="String">
+					<Value>Não há conteudo relacionado.</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AboutAppStudioOpenSourceLibraries">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutAppStudioOpenSourceLibraries/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>App Studio Open Source Libraries</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>App Studio Open Source Libraries</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutButton">
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>sobre</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>sobre</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutCapabilityApplicationInsights">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutCapabilityApplicationInsights/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>·   Application Insights</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>·   Application Insights</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutCapabilityInternet">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutCapabilityInternet/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>·   Conexão com a internet</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>·   Conexão com a internet</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutCapabilityTileUpdater">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutCapabilityTileUpdater/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>·  Atualizar Tile</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>·   Tile Updater</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutFlyout">
+				<NamedResource name="Title" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutFlyout/Title">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Sobre</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Sobre</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutOpenProjectURL">
+				<NamedResource name="Content" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutOpenProjectURL/Content">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Open project URL</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Open project URL</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutSection">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutSection/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>sobre</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>sobre</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutSectionCapabilities">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutSectionCapabilities/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Recursos de aplicativos</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Applicação capacidades</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutSectionLicenses">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutSectionLicenses/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Licenças de código aberto</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Open source licenses</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutSectionLicensesDescription">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AboutSectionLicensesDescription/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Este aplicativo foi desenvolvido usando o seguinte software de código aberto:</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Este aplicativo é desenvolvido usando seguinte software de código aberto:</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AdvertisementSection">
+				<NamedResource name="Header" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AdvertisementSection/Header">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Anúncio</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Publicidade</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AppVersion">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/AppVersion/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Versão do aplicativo:</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>App version:</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BigTextButton">
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/BigTextButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>texto grande</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>texto grande</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/BigTextButton/AutomationProperties/Name">
+						<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+							<Value>Clique para definir o tamanho grande do texto</Value>
+						</Candidate>
+						<Candidate type="String">
+							<Value>Clique para definir o texto como grande</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DevelopedBy">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/DevelopedBy/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Desenvolvido por:</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Desenvolvido por:</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FullScreenButton">
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/FullScreenButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Tela inteira</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Tela cheia</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/FullScreenButton/AutomationProperties/Name">
+						<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+							<Value>Clique para ativar o modo full screen</Value>
+						</Candidate>
+						<Candidate type="String">
+							<Value>Clique para ativar o modo full screen</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="LastUpdated">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/LastUpdated/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Última atualização</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Ultima atualização</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ListErrorNotificationControl">
+				<NamedResource name="ErrorText" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/ListErrorNotificationControl/ErrorText">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Ocorreu um erro inesperado ao carregar os dados da seção. Tente atualizar mais tarde.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>There was an unexpected error loading the section data. Try to refresh later.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="LoadDataErrorMessage">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/LoadDataErrorMessage/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Ocorreu um erro inesperado ao carregar os dados da seção. Tente atualizar mais tarde.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>There was an unexpected error loading the section data. Try to refresh later.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NavigationPageButton">
+				<ResourceMapSubtree name="AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/NavigationPageButton/AutomationProperties/Name">
+						<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+							<Value>Painel de navegação da aplicação</Value>
+						</Candidate>
+						<Candidate type="String">
+							<Value>Painel de navegação da aplicação</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NoConnectionAvailable">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/NoConnectionAvailable/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>O vídeo não pode ser mostrado porque não há nenhuma conexão disponível.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The video cannot be shown because there is no connection available.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NormalTextButton">
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/NormalTextButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>texto normal</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>texto normal</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/NormalTextButton/AutomationProperties/Name">
+						<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+							<Value>Clique para definir o tamanho normal do texto</Value>
+						</Candidate>
+						<Candidate type="String">
+							<Value>Clique para definir o tamanho texto normal</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PrivacyButton">
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/PrivacyButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>privacidade</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>privacidade</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PrivacyFlyout">
+				<NamedResource name="Title" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/PrivacyFlyout/Title">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Privacidade</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Privacidade</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PrivacyTermsButton">
+				<NamedResource name="Text" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/PrivacyTermsButton/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Termos de privacidade</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Termos de privacidade</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="RefreshButton">
+				<NamedResource name="AutomationPropertiesName" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/RefreshButton/AutomationPropertiesName">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Clique para atualizar</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Atualizar</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/RefreshButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>atualizar</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>atualizar</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SectionListItem">
+				<NamedResource name="ErrorText" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/SectionListItem/ErrorText">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Ocorreu um erro inesperado ao carregar os dados da seção. Tente atualizar mais tarde.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>There was an unexpected error loading the section data. Try to refresh later.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HeaderLinkText" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/SectionListItem/HeaderLinkText">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Ver mais</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Ver Mais</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ShareItemButton">
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/ShareItemButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>compartilhar</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>compartilhar</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/ShareItemButton/AutomationProperties/Name">
+						<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+							<Value>Clique para compartilhar</Value>
+						</Candidate>
+						<Candidate type="String">
+							<Value>Compartilhar</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ShowInfoButton">
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/ShowInfoButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Mostrar informações</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Ver informações</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/ShowInfoButton/AutomationProperties/Name">
+						<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+							<Value>Clique para Exibir/ocultar informações</Value>
+						</Candidate>
+						<Candidate type="String">
+							<Value>Clique para exibir/ocultar informações</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ShowPresentationButton">
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/ShowPresentationButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Apresentação de slides</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>ver slide</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/ShowPresentationButton/AutomationProperties/Name">
+						<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+							<Value>Clique para iniciar</Value>
+						</Candidate>
+						<Candidate type="String">
+							<Value>Clique para ver a mídia</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SmallTextButton">
+				<NamedResource name="Label" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/SmallTextButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>texto pequeno</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>texto pequeno</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="AutomationProperties">
+					<NamedResource name="Name" uri="ms-resource://59371RafasTavares.UnitSocial/Resources/SmallTextButton/AutomationProperties/Name">
+						<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+							<Value>Clique para definir o tamanho pequeno do texto</Value>
+						</Candidate>
+						<Candidate type="String">
+							<Value>Clique para definir o texto como pequeno</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

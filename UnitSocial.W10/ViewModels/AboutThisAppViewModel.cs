@@ -59,9 +59,7 @@ namespace UnitSocial.ViewModels
         {
             get
             {
-                return "Cansado de perder alguma noticia sobre a Unit?! eu também estava, por isso criei " +
-    "esse aplicativo que reune todas as principais redes sociais da universidade cent" +
-    "ralizando em um só aplicativo. Nunca mais fico por fora de alguma notícia.";
+                return @"Cansado de perder alguma noticia sobre a Unit?! Eu também ESTAVA, por isso criei esse aplicativo que reune as principais redes sociais da universidade centralizando em um só aplicativo. Nunca mais fico por fora de alguma notícia.";
             }
         }
         #endregion

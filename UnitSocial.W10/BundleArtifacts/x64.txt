@@ -1,0 +1,2 @@
+MainPackage=C:\Users\rafae\Downloads\UnitSocial\UnitSocial.W10\bin\x64\Release\UnitSocial.W10_1.1.0.0_x64.appx
+SymbolPackage=C:\Users\rafae\Downloads\UnitSocial\UnitSocial.W10\AppPackages\UnitSocial.W10_1.1.0.0_Test\UnitSocial.W10_1.1.0.0_x64.appxsym
